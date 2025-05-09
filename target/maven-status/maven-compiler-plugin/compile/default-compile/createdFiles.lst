@@ -1,0 +1,7 @@
+com\espe\app\TestConexion.class
+com\espe\app\controller\UserController.class
+com\espe\app\model\User.class
+com\espe\app\dao\UserDAO.class
+com\espe\app\resources\JakartaEE10Resource.class
+com\espe\app\JakartaRestConfiguration.class
+com\espe\app\dao\ConnectionBdd.class
